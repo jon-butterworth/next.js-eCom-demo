@@ -1,1 +1,1 @@
-**Gucci Digital - Platform Engineering test app**
+**A small but fully functional eCommerce test app**
